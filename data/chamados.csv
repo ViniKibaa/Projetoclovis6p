@@ -1,0 +1,481 @@
+id,texto,categoria,urgencia,grupo
+1,Preciso de ajuda: o antivírus acusou um arquivo suspeito no meu computador. Estou no 2º andar.,Software,Médio,Software|Médio|m5
+2,A conta do administrador foi negado e a operação inteira parou. Obrigado. Estou no 2º andar.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:a conta do administrador|foi negado
+3,Preciso de ajuda: o navegador está lento e mostra erro ao abrir o sistema de chamados. Aguardo retorno.,Software,Médio,Software|Médio|m2
+4,Prceiso de ajuda: minha conta parou de funcionar e a diretoria cobra solução imediata Aguardo retorno. Setor administrativo.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:minha conta|parou de funcionar
+5,Sai cheiro de queimado do nobreak da sala de servidores Podem verificar? Filial centro.,Hardware,Alto,Hardware|Alto|m2
+6,Preciso de ajuda: como cadastro um novo ceullar na autenticação de dois fatores quando trocar de aparelho Qualquer novidade me avisem. Setor administrativo.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m3
+7,"oi, o desktop da recepção faz um barulho estranho e dá para ver quando houver uma oportunidade qualquer novidade me avisem. setor administrativo.",Hardware,Baixo,Hardware|Baixo|c:o desktop da recepção|faz um barulho estranho
+8,Dúvida sobre como criar uma senha mais forte.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m1
+9,"Oi, o editor de planilhas trava ao abrir e toda a empresa está parada. Setor administrativo.",Software,Alto,Software|Alto|c:o editor de planilhas|trava ao abrir
+10,Minha conta parou de funcionar e dá para ver quando houver uma oportunidade Aguardo retorno.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:minha conta|parou de funcionar
+11,O desktop da recepcao esquenta demais e desliga e todos os setores estao sem conseguir trabalhar. Setor comercial.,Hardware,Alto,Hardware|Alto|c:o desktop da recepção|esquenta demais e desliga
+12,"Boa tarde, a rede da fábrica caiu e as máquinas da linha de produção pararam",Redes,Alto,Redes|Alto|m9
+13,"Olá, a VPN conecta mas fica lenta e desconecta depois de um tempo",Redes,Médio,Redes|Médio|m4
+14,"Olá, o sistema de pagamentos retorna erro em todas as transações e os clientes não conseguem comprar.",Software,Alto,Software|Alto|m8
+15,O ponto de rede da minha mesa perdeu a conexão e pode ser tratado na próxima manutenção Setor administrativo.,Redes,Baixo,Redes|Baixo|c:o ponto de rede da minha mesa|perdeu a conexão
+16,Bom dia. o scanner deixou de responder e preciso resolver até o fim do dia. Obrigado. Estou no 2º andar.,Hardware,Médio,Hardware|Médio|c:o scanner|deixou de responder
+17,como cadastro um novo celular na autenticação de dois fatores quando trocar de aparelho. Qualquer novidade me avisem.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m3
+18,O sistema de faturamento está fora do ar e não conseguimos emitir notas fiscais. Aguardo retorno. Setor administrativo.,Software,Alto,Software|Alto|m0
+19,"Pessoal, o antivírus acusou um arquivo suspeito no meu computador Setor comercial.",Software,Médio,Software|Médio|m5
+20,"Boa tarde, esqueci minha senha e preciso acessar o sistema para entregar um relatório hoje",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m0
+21,"Boa tarde, um ex-funcionário ainda acessa o sistema de clientes e precisa ser bloqueado imediatamente. Obrigado.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m7
+22,"Pessoal, o mosue não liga e isso atrapalha meu trabalho hoje Aguardo retorno. Filial centro.",Hardware,Médio,Hardware|Médio|c:o mouse|não liga
+23,"boa tarde, não consigo acessar a psata compartilhada da rede do financeiro obrigado. setor administrativo.",Redes,Médio,Redes|Médio|m2
+24,Bom dia. o acesso ao sistema de compras foi negado e ninguém consegue trabalhar. Podem verificar?,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:o acesso ao sistema de compras|foi negado
+25,Bom dia. o scanner da recepção deixa listras nos documentos digitalizados. Filial centro.,Hardware,Médio,Hardware|Médio|m8
+26,Bom dia. a conta do administrador deixou de funcionar e consigo trabalhar apenas de forma limitada. Aguardo retorno. Setor comercial.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:a conta do administrador|deixou de funcionar
+27,solicito um mousepad novo quando houver estoque. Qualquer novidade me avisem. Estou no 2º andar.,Hardware,Baixo,Hardware|Baixo|m7
+28,"Boa tarde, gostaria de atualizar o e-mail de recuperação da minha conta.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m6
+29,"Boa tarde, o wi-fi parou de funcionar e pode ser tratado na próxima manutenção. Obrigado.",Redes,Baixo,Redes|Baixo|c:o wi-fi|parou de funcionar
+30,"Oi, dúvida sobre a forma correta de limpar a tela do notebook. Podem verificar? Filial centro.",Hardware,Baixo,Hardware|Baixo|m6
+31,o erp apresenta erro crítico e todos os usuários perderam o acesso aos pedidos podem verificar? sala 204.,Software,Alto,Software|Alto|m1
+32,Bom dia. sai cheiro de queimado do nobreak da sala de servidores. Obrigado.,Hardware,Alto,Hardware|Alto|m2
+33,Bom dia. meu usuário foi negado e todos os setores estão sem conseguir trabalhar. Qualquer novidade me avisem. Filial centro.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:meu usuário|foi negado
+34,A VPN perdeu a conexão e ninguém consegue trabalhar. Estou no 2º andar.,Redes,Alto,Redes|Alto|c:a VPN|perdeu a conexão
+35,Preciso de ajuda: o roteador parou de funcionar e há risco para os dados da empresa Qualquer novidade me avisem. Filial centro.,Redes,Alto,Redes|Alto|c:o roteador|parou de funcionar
+36,O ponto de rede da minha mesa não conecta e a operação inteira parou. Aguardo retorno. Setor comercial.,Redes,Alto,Redes|Alto|c:o ponto de rede da minha mesa|não conecta
+37,"Olá, o servidor de autenticação caiu e todo o call center está sem conseguir logar. Setor comercial.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m9
+38,pergunta sobre o horario da manutencao programada da rede.,Redes,Baixo,Redes|Baixo|m4
+39,O código de verificação em dois fatores não funciona e pode ser resolvido na próxima semana. Podem verificar? Setor comercial.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o código de verificação em dois fatores|não funciona
+40,"pessoal, a internet não funciona e estamos perdendo vendas agora. filial centro.",Redes,Alto,Redes|Alto|c:a internet|não funciona
+41,Bom dia. pergunta sobre a garantia do meu monitor novo. Aguardo retorno. Setor comercial.,Hardware,Baixo,Hardware|Baixo|m9
+42,"Oi, o sistema de ponto eletrônico travou e ninguém consegue registrar a entrada. Qualquer novidade me avisem. Estou no 2º andar.",Software,Alto,Software|Alto|m5
+43,"Oi, o sistema de faturamento mostra uma mensagem de erro e pode ser tratado na próxima manutenção. Filial centro.",Software,Baixo,Software|Baixo|c:o sistema de faturamento|mostra uma mensagem de erro
+44,Preciso de ajuda: o login único está fora do ar e nenhum colaborador entra nos sistemas.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|m4
+45,"Pessoal, a rede cabeada perdeu a conexão e estamos perdendo vendas agora.",Redes,Alto,Redes|Alto|c:a rede cabeada|perdeu a conexão
+46,Bom dia. o servidor de e-mail parou e a empresa inteira está sem e-mail.,Software,Alto,Software|Alto|m7
+47,"Boa tarde, o Outlook não abre e a operação inteira parou. Estou no 2º andar.",Software,Alto,Software|Alto|c:o Outlook|não abre
+48,O Outlook não abre e preciso de uma solução ainda esta semana Setor comercial.,Software,Médio,Software|Médio|c:o Outlook|não abre
+49,solicito a instalação de um programa de captura de tela.,Software,Baixo,Software|Baixo|m4
+50,Bom dia. a atualização do Windows falhou e o computador fica reiniciando em loop Qualquer novidade me avisem. Filial centro.,Software,Médio,Software|Médio|m4
+51,"Oi, mihna conta não funciona e a diretoria cobra solução imediata. Setor comercial.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:minha conta|não funciona
+52,Ataque de negação de serviço está derrubando o site do e-commerce. Aguardo retorno.,Redes,Alto,Redes|Alto|m6
+53,o switch do andar ficou instável e não está atrapalhando meu trabalho. filial centro.,Redes,Baixo,Redes|Baixo|c:o switch do andar|ficou instável
+54,O link da filial caiu e a operacao inteira parou. Aguardo retorno.,Redes,Alto,Redes|Alto|c:o link da filial|caiu
+55,"Pessoal, o Windows fecha sozinho e consigo trabalhar apenas de forma limitada",Software,Médio,Software|Médio|c:o Windows|fecha sozinho
+56,Minha senha foi bloqueado mas não tem pressa. Podem verificar? Setor administrativo.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:minha senha|foi bloqueado
+57,"Boa tarde, como altero o idioma do aplicativo para português. Qualuqer novidade me avisem. Setor administrativo.",Software,Baixo,Software|Baixo|m6
+58,"Olá, perciso de um cabo de carregador reserva para deixar na mesa Obrigado. Filial centro.",Hardware,Baixo,Hardware|Baixo|m5
+59,"Pessoal, o sistema de faturamento nao abre e a diretoria cobra soulcao imediata.",Software,Alto,Software|Alto|c:o sistema de faturamento|não abre
+60,"Boa tarde, o firewall parou de responder e as filiais perderam a conexão com a matriz Sala 204.",Redes,Alto,Redes|Alto|m4
+61,Bom dia. dúvida sobre como criar uma senha mais forte Podem verificar?,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m1
+62,Bom dia. a tampa lateral do gabinete está meio solta mas funicona normalmente. Podem verificar? Sala 204.,Hardware,Baixo,Hardware|Baixo|m4
+63,preciso de ajuda: meu usuário expirou mas não tem pressa obrigado.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:meu usuário|expirou
+64,Preciso de ajuda: ataque de negação de serviço está derrubando o site do e-commerce. Sala 204.,Redes,Alto,Redes|Alto|m6
+65,O link principal está down e o sistema de vendas ficou offline em todas as lojas. Setor comercial.,Redes,Alto,Redes|Alto|m3
+66,"Ola, o diretorio de usuarios travou e ninguem consegue fazer login em nenhum sistema Obrigado.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m1
+67,"o ERP trava ao abrir e os clientes estão sendo afetados, é urgente. Obrigado. Setor comercial.",Software,Alto,Software|Alto|c:o ERP|trava ao abrir
+68,o scanner da recepção dexia listras nos documentos digitalizados. Podem verificar? Filial centro.,Hardware,Médio,Hardware|Médio|m8
+69,"Boa tarde, quero saber qual e a velocidade contrtaada do nosso link de internet. Podem verificar? Sala 204.",Redes,Baixo,Redes|Baixo|m9
+70,"Oi, meu usuário deixou de funcionar e o prejuízo aumenta a cada minuto Podem verificar? Sala 204.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:meu usuário|deixou de funcionar
+71,Duvida sobre qual rede devo usar no meu celular pessoal. Podem verificar? Setor comercial.,Redes,Baixo,Redes|Baixo|m1
+72,"Olá, a internet não funciona e pode ser resolvido na próxmia semana Obrigado.",Redes,Baixo,Redes|Baixo|c:a internet|não funciona
+73,O desktop da recepção não liga e pode ser resolvido na próxima semana. Qualquer novidade me avisem.,Hardware,Baixo,Hardware|Baixo|c:o desktop da recepção|não liga
+74,"Boa tarde, o antivírus trava ao abrir e todos os setores estão sem conseguir trabalhar. Estou no 2º andar.",Software,Alto,Software|Alto|c:o antivírus|trava ao abrir
+75,Bom dia. o acesso à intranet parou de funcionar e afeta duas pessoas da minha equipe.,Redes,Médio,Redes|Médio|c:o acesso à intranet|parou de funcionar
+76,"Boa tarde, o navegador mostra uma mensagem de erro e consigo trabalhar apenas de forma limitada Obrigado. Sala 204.",Software,Médio,Software|Médio|c:o navegador|mostra uma mensagem de erro
+77,"Ola, pode atualizar a veraso do navegador na proxima manutencao. Setor administrativo.",Software,Baixo,Software|Baixo|m2
+78,A atualização do sistema apagou os dados dos clientes Podem verificar? Filial centro.,Software,Alto,Software|Alto|m3
+79,o plugin do navegador deixou de funcionar e não consigo assinar os documentos.,Software,Médio,Software|Médio|m8
+80,"Pessoal, o wi-fi parou de funcionar e pode ser resolvido na proxima semana.",Redes,Baixo,Redes|Baixo|c:o wi-fi|parou de funcionar
+81,"Pessoal, o editor de planilhas mostra uma mensagem de erro e pode ser resolvido na próxima semana.",Software,Baixo,Software|Baixo|c:o editor de planilhas|mostra uma mensagem de erro
+82,"Boa tarde, o login único falhou na autenticação sem urgência. Sala 204.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o login único|falhou na autenticação
+83,o Teams apresenta erro ao iniciar só estou avisando para constar Obrigado.,Software,Baixo,Software|Baixo|c:o Teams|apresenta erro ao iniciar
+84,Preciso de ajuda: a nova versão do sistema derrubou o atendimento e as filas estão paradas. Podem verificar?,Software,Alto,Software|Alto|m9
+85,"oi, pergunta sobre o prazo de valdiade das senhas da empresa. aguardo retorno. estou no 2º andar.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m4
+86,"Olá, gostaria de saber como organizar as pastas do meu e-mail Obrigado.",Software,Baixo,Software|Baixo|m9
+87,O aplicativo de vendas fecha sozinho para todos os vendedores em campo.,Software,Alto,Software|Alto|m6
+88,o desktop da recepção faz um barulho estranho e pode ser tratado na próxima manutenção.,Hardware,Baixo,Hardware|Baixo|c:o desktop da recepção|faz um barulho estranho
+89,O computador está muito lento e demroa minutos para abrir qualquer programa. Obrigado. Setor comercial.,Hardware,Médio,Hardware|Médio|m4
+90,O Teams nao funciona e da para ver quando houver uma oportunidade. Podem verificar? Sala 204.,Software,Baixo,Software|Baixo|c:o Teams|não funciona
+91,"Boa tarde, o computador do caixa não liga e a loja está parada sem conseguir vender. Aguardo retorno. Sala 204.",Hardware,Alto,Hardware|Alto|m1
+92,"Pessoal, o ponto de rede da minha mesa apresenta falha de comunicação e preciso resolver até o fim do dia. Qualquer novidade me avisem.",Redes,Médio,Redes|Médio|c:o ponto de rede da minha mesa|apresenta falha de comunicação
+93,"Olá, o headset parou de funcionar sem urgência. Qualquer novidade me avisem. Sala 204.",Hardware,Baixo,Hardware|Baixo|c:o headset|parou de funcionar
+94,O tema escuro do sistema interno poderia ser configurado. Obrigado. Filial centro.,Software,Baixo,Software|Baixo|m5
+95,Bom dia. o desktop da recepção não funciona e todos os setores estão sem conseguir trabalhar. Obrigado. Sala 204.,Hardware,Alto,Hardware|Alto|c:o desktop da recepção|não funciona
+96,Preciso de ajuda: o teclado não funciona e afeta duas pessoas da minha equipe Estou no 2º andar.,Hardware,Médio,Hardware|Médio|c:o teclado|não funciona
+97,"Pessoal, a bateria do notebook dura menos de vinte minutos. Filial centro.",Hardware,Médio,Hardware|Médio|m6
+98,meu usuário foi negado e todas as filiais estão sem atendimento Aguardo retorno. Filial centro.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:meu usuário|foi negado
+99,"Pessoal, o roteador não funciona mas ainda dá para usar com dificuldade Podem verificar?",Redes,Médio,Redes|Médio|c:o roteador|não funciona
+100,"Boa tarde, o mouse apresenta defeito mas ainda dá para usar com dificuldade.",Hardware,Médio,Hardware|Médio|c:o mouse|apresenta defeito
+101,Preciso de ajuda: a VPN ficou instável e há risco para os dados da empresa. Aguardo retorno. Setor administrativo.,Redes,Alto,Redes|Alto|c:a VPN|ficou instável
+102,"oi, a internet parou de funcionar e ninguém consegue trabalhar podem verificar? estou no 2º andar.",Redes,Alto,Redes|Alto|c:a internet|parou de funcionar
+103,Bom dia. o projetor da sala de reunião apresenta defeito e não está atrapalhando meu trabalho. Sala 204.,Hardware,Baixo,Hardware|Baixo|c:o projetor da sala de reunião|apresenta defeito
+104,"Oi, o Outlook não sincroniza meus e-mails desde ontem. Aguardo retorno. Filial centro.",Software,Médio,Software|Médio|m3
+105,"Olá, meu acesso ao sistema expirou e afeta duas pessoas da minha equipe",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:meu acesso ao sistema|expirou
+106,"pessoal, a permissao da pasta compartilhada foi bloqueado mas nao tem pressa. obrigado. sala 204.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:a permissão da pasta compartilhada|foi bloqueado
+107,"Boa tarde, o headset não funciona nas reuniões e uso o celular como alternativa.",Hardware,Médio,Hardware|Médio|m7
+108,Preciso de ajuda: a catraca de entrada travou e nenhum funcionario consegue entrar no predio. Podem verificar?,Hardware,Alto,Hardware|Alto|m9
+109,o sevridor de e-mail parou e a empresa inteira esta sem e-mail. obrigado. estou no 2o andar.,Software,Alto,Software|Alto|m7
+110,"olá, como configuro a impressora de rede no meu notebook novo quando der. obrigado. sala 204.",Redes,Baixo,Redes|Baixo|m3
+111,Bom dia. o aplicativo de vendas fecha sozinho para todos os vendedores em campo. Obrigado.,Software,Alto,Software|Alto|m6
+112,O storage de backup emitiu alarme de disco danificado e os dados da empresa estão em risco. Setor comercial.,Hardware,Alto,Hardware|Alto|m8
+113,existe alguma licença disponível do editor de imagens para testar Estou no 2º andar.,Software,Baixo,Software|Baixo|m8
+114,"Boa tarde, o aplicativo de vendas não abre e só eu estou com esse problema, mas tenho um relatório para entregar. Setor comercial.",Software,Médio,Software|Médio|c:o aplicativo de vendas|não abre
+115,Queria solicitar um ponto de rede extra para a mesa nova no próximo mês,Redes,Baixo,Redes|Baixo|m2
+116,"Boa tarde, o sistema de faturamento trava ao abrir e preciso de uma solucao ainda esta semana Podem verificar?",Software,Médio,Software|Médio|c:o sistema de faturamento|trava ao abrir
+117,"oi, o navegador mostra uma mensagem de erro e preciso de uma solução ainda esta semana. filial centro.",Software,Médio,Software|Médio|c:o navegador|mostra uma mensagem de erro
+118,"Olá, a impressora não liga e não está atrapalhando meu trabalho Estou no 2º andar.",Hardware,Baixo,Hardware|Baixo|c:a impressora|não liga
+119,"Pessoal, o aplicativo de vendas não salva os dados e a diretoria cobra solução imediata. Obrigado. Setor comercial.",Software,Alto,Software|Alto|c:o aplicativo de vendas|não salva os dados
+120,Tem como trocar a cor da capa do notebook corporativo no próximo ciclo de compras. Qualquer novidade me avisem.,Hardware,Baixo,Hardware|Baixo|m8
+121,"Olá, o mouse faz um barulho estranho e todas as filiais estão sem atendimento Obrigado. Sala 204.",Hardware,Alto,Hardware|Alto|c:o mouse|faz um barulho estranho
+122,"Pessoal, o acesso à intranet ficou instável e todos os setores estão sem conseguir trabalhar.",Redes,Alto,Redes|Alto|c:o acesso à intranet|ficou instável
+123,"Preciso de ajuda: o teclado não funciona e os clientes estão sendo afetados, é urgente Qualquer novidade me avisem. Filial centro.",Hardware,Alto,Hardware|Alto|c:o teclado|não funciona
+124,"Pessoal, o diretório de usuários travou e ninguém consegue fazer login em nenhum sistema Estou no 2º andar.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m1
+125,Gostaria de solicitar um suporte de monitor para a minha mesa. Estou no 2o andar.,Hardware,Baixo,Hardware|Baixo|m0
+126,"Pessoal, gostaria de solictiar um suporte de monitor para a minha mesa.",Hardware,Baixo,Hardware|Baixo|m0
+127,"Oi, o login único expirou e não está atrapalhando meu trabalho. Obrigado. Sala 204.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o login único|expirou
+128,"Oi, o login úinco foi negado e preciso de uma solução ainda esta semana. Podem verificar? Setor comercial.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o login único|foi negado
+129,O HD externo deixou de responder e preciso resolver ate o fim do dia. Agurado retorno. Setor comercial.,Hardware,Médio,Hardware|Médio|c:o HD externo|deixou de responder
+130,Bom dia. o login único apresenta erro ao entrar e preciso resolver até o fim do dia. Aguardo retorno. Setor administrativo.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o login único|apresenta erro ao entrar
+131,"Olá, o navegador mostra uma mensagem de erro e todos os setores estão sem conseguir trabalhar. Estou no 2º andar.",Software,Alto,Software|Alto|c:o navegador|mostra uma mensagem de erro
+132,o mouse falhou de repente mas ainda dá para usar com dificuldade. estou no 2º andar.,Hardware,Médio,Hardware|Médio|c:o mouse|falhou de repente
+133,o código de verificação em dois fatores falhou na autenticação e ninguém consegue trabalhar. Estou no 2º andar.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:o código de verificação em dois fatores|falhou na autenticação
+134,Preciso de ajuda: o scanner não funciona sem urgência,Hardware,Baixo,Hardware|Baixo|c:o scanner|não funciona
+135,"Ola, o wi-fi cai a cada dez minutos no meu setor. Aguardo retorno. Setor comercial.",Redes,Médio,Redes|Médio|m1
+136,Bom dia. queria entender por que o sistema pede troca de senha a cada noventa dias. Sala 204.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m9
+137,"olá, a impressora de etiquetas da expedição quebrou e nenhum pedido sai hoje qualquer novidade me avisem. setor administrativo.",Hardware,Alto,Hardware|Alto|m4
+138,"Oi, a rede cabeada caiu e os clientes estão sendo afetados, é urgente. Sala 204.",Redes,Alto,Redes|Alto|c:a rede cabeada|caiu
+139,"Pessoal, existe um mapa com a cobertura do wi-fi nos andares. Podem verificar? Setor comercial.",Redes,Baixo,Redes|Baixo|m8
+140,a rede da fábrica caiu e as máquinas da linha de produção pararam Qualquer novidade me avisem. Setor administrativo.,Redes,Alto,Redes|Alto|m9
+141,"oi, o acesso ao sistema de compras apresetna erro ao entrar e pode ser tratado na próxima manutenção. podem verificar?",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o acesso ao sistema de compras|apresenta erro ao entrar
+142,"Oi, a fonte do computador parou de funcionar e a diretoria cobra solução imediata. Setor comercial.",Hardware,Alto,Hardware|Alto|c:a fonte do computador|parou de funcionar
+143,"Oi, a impressora do andar trava o papel com frequência.",Hardware,Médio,Hardware|Médio|m2
+144,Preciso de ajuda: a conexão com o servidor parou de funcionar mas não tem pressa. Aguardo retorno. Estou no 2º andar.,Redes,Baixo,Redes|Baixo|c:a conexão com o servidor|parou de funcionar
+145,"Oi, o acesso ao sistema de compras falhou na autenticação e estou usando um contorno provisório. Aguardo retorno. Estou no 2º andar.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o acesso ao sistema de compras|falhou na autenticação
+146,"Pessoal, o roteador não funciona só estou avisando para constar. Qualquer novidade me avisem.",Redes,Baixo,Redes|Baixo|c:o roteador|não funciona
+147,Bom dia. o Outlook trava ao abrir mas ainda dá para usar com dificuldade Qualquer novidade me avisem. Setor administrativo.,Software,Médio,Software|Médio|c:o Outlook|trava ao abrir
+148,o sistema de pagamentos retorna erro em todas as transacoes e os clientes nao conseguem comprar Aguardo retorno. Filial centro.,Software,Alto,Software|Alto|m8
+149,"Pessoal, o banco de dados corrompeu e a aplicação de produção parou. Seotr comercial.",Software,Alto,Software|Alto|m2
+150,"Pessoal, o scanner faz um barulho estranho e todos os setores estao sem conseguir trabalhar Qualquer novidade me avisem. Estou no 2o andar.",Hardware,Alto,Hardware|Alto|c:o scanner|faz um barulho estranho
+151,"Pessoal, um ex-funcionário ainda acessa o sistema de clientes e precisa ser bloqueado imediatamente Setor administrativo.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m7
+152,Preciso de ajuda: gostaria de instalar um editor de PDF no meu computador quando possíevl Obrigado. Estou no 2º andar.,Software,Baixo,Software|Baixo|m0
+153,Preciso de ajuda: minha senha foi bloqueado e isso está atrasando minhas tarefas. Obrigado. Estou no 2º andar.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:minha senha|foi bloqueado
+154,A tampa lateral do gabinete está meio solta mas funciona normalmente. Aguardo retorno. Estou no 2º andar.,Hardware,Baixo,Hardware|Baixo|m4
+155,Bom dia. posso pegar emprestado um adaptador HDMI na semana que vem. Aguardo retorno.,Hardware,Baixo,Hardware|Baixo|m3
+156,"Oi, o monitor fica piscando de vez em quando e atrapalha meu trabalho. Aguardo retorno. Estou no 2o andar.",Hardware,Médio,Hardware|Médio|m1
+157,"Olá, o antivírus não funciona e estou usando um contorno provisório. Setor comercial.",Software,Médio,Software|Médio|c:o antivírus|não funciona
+158,bom dia. o mouse faz um barulho estranho só estou avisando para constar. obrigado. filial centro.,Hardware,Baixo,Hardware|Baixo|c:o mouse|faz um barulho estranho
+159,"Pessoal, o link da filial parou de funcionar e preciso resolver até o fim do dia. Obrigado.",Redes,Médio,Redes|Médio|c:o link da filial|parou de funcionar
+160,"Pessoal, a internet caiu em todo o prédio e ninguém consegue trabalhar Setor comercial.",Redes,Alto,Redes|Alto|m0
+161,"Pessoal, o token de autenticação em dois fatores parou e a equipe inteira está sem acesso. Aguardo retorno.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m6
+162,Bom dia. a webcam não liga e consigo trabalhar apenas de forma limitada. Estou no 2º andar.,Hardware,Médio,Hardware|Médio|c:a webcam|não liga
+163,"Pessoal, perdi o acesso ao sistema de compras depois da troca de cargo. Podem verificar? Setor administrativo.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m5
+164,"Boa tarde, poderia incluir meu nome na lista de acesso ao evento do mês que vem. Qualquer novidade me avisem.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m5
+165,O código de verificação em dois fatores deixou de funcionar e estamos perdendo vendas agora. Aguardo retorno.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:o código de verificação em dois fatores|deixou de funcionar
+166,Preciso de ajuda: o ponto de rede da minha mesa nao funciona e estou usando wi-fi. Aguardo retorno.,Redes,Médio,Redes|Médio|m5
+167,Bom dia. o nobreak apresenta defeito e não está atrapalhando meu trabalho. Setor administrativo.,Hardware,Baixo,Hardware|Baixo|c:o nobreak|apresenta defeito
+168,"Pessoal, o servidor DNS perdeu a conexao e pode ser tratado na proxima manutencao Qualquer novidade me avisem. Estou no 2o andar.",Redes,Baixo,Redes|Baixo|c:o servidor DNS|perdeu a conexão
+169,"Oi, meu usuário apresenta erro ao entrar e há risco para os dados da empresa Aguardo retorno. Setor administrativo.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:meu usuário|apresenta erro ao entrar
+170,Bom dia. o sistema de faturamento nao salva os dados e todas as filiais estao sem atendimento Podem verificar?,Software,Alto,Software|Alto|c:o sistema de faturamento|não salva os dados
+171,meu usuário expirou e estamos perdendo vendas agora. setor administrativo.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:meu usuário|expirou
+172,O navegador trava ao abrir e ninguem consegue trabalhar. Aguardo retorno. Filial centro.,Software,Alto,Software|Alto|c:o navegador|trava ao abrir
+173,"Pessoal, o acesso à VPN foi negado para o meu usuário Qualquer novidade me avisem. Sala 204.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m6
+174,Um ransomware criptografou os arquivos de vários cmoputadores e exige resgate. Setor administrativo.,Software,Alto,Software|Alto|m4
+175,Dúvida sobre a forma correta de limpar a tela do notebook Aguardo retorno. Sala 204.,Hardware,Baixo,Hardware|Baixo|m6
+176,Bom dia. o Outlook não funciona e todas as filiais estão sem atendimento Qualquer novidade me avisem.,Software,Alto,Software|Alto|c:o Outlook|não funciona
+177,"Oi, gostaria de atualizar o e-mail de recuperação da minha conta. Qualquer novidade me avisem. Setor comercial.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m6
+178,"Boa tarde, quero solicitar acesso de leitura a um relatório que consulto de vez em quando. Qualqeur novidade me avisem.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m2
+179,Preciso de acesso à pasta do projeto novo para continuar o meu trabalho. Filial centro.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m3
+180,"Boa tarde, o servidor de arquivos deixou de responder mas tenho outra opção funcionando bem. Qualquer novidade me avisem. Filial centro.",Hardware,Baixo,Hardware|Baixo|c:o servidor de arquivos|deixou de responder
+181,"Olá, a VPN está fora do ar e toda a equipe remota está parada. Obrigado. Filial centro.",Redes,Alto,Redes|Alto|m1
+182,"Preciso de ajuda: o wi-fi caiu e só eu estou com esse problema, mas tenho um relatório para entregar. Setor comercial.",Redes,Médio,Redes|Médio|c:o wi-fi|caiu
+183,"Pessoal, a bateria do notebook dura menos de vinte minutos Aguardo retorno. Filial centro.",Hardware,Médio,Hardware|Médio|m6
+184,"Pessoal, o sistema de faturamento mostra uma mensagem de erro e preciso resolver até o fim do dia. Aguardo retorno.",Software,Médio,Software|Médio|c:o sistema de faturamento|mostra uma mensagem de erro
+185,"Olá, o programa de edição de vídeo trava toda vez que exporto. Podem verificar?",Software,Médio,Software|Médio|m1
+186,"Olá, o teclado não funciona mas ainda dá para usar com dificuldade. Aguardo retorno.",Hardware,Médio,Hardware|Médio|c:o teclado|não funciona
+187,"Olá, a VPN conecta mas fica lenta e desconecta depois de um tempo. Obrigado. Setor comercial.",Redes,Médio,Redes|Médio|m4
+188,"Oi, o scanner deixou de funcionar e isso atrapalha meu trabalho hoje.",Hardware,Médio,Hardware|Médio|c:o scanner|deixou de funcionar
+189,Preciso de ajuda: o sistema de faturamento não abre e estou usando um contorno provisório.,Software,Médio,Software|Médio|c:o sistema de faturamento|não abre
+190,o notebook deixou de funcionar e não está atrapalhando meu trabalho,Hardware,Baixo,Hardware|Baixo|c:o notebook|deixou de funcionar
+191,"Olá, queria trocar meu mouse por um modelo mais confortável quando possível.",Hardware,Baixo,Hardware|Baixo|m2
+192,"Olá, esqueci minha sneha e preciso acessar o sistema para entregar um relatório hoje",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m0
+193,O ponto de rede da minha mesa não conecta e toda a empresa está parada Podem verificar? Sala 204.,Redes,Alto,Redes|Alto|c:o ponto de rede da minha mesa|não conecta
+194,Queria entender por que o sistema pede troca de senha a cada noventa dias Aguardo retorno.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m9
+195,meu usuário expirou e todas as filiais estão sem atendimento. setor administrativo.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:meu usuário|expirou
+196,"Olá, o sistema de faturamento apresenta erro ao iniciar só estou avisando para constar Filial centro.",Software,Baixo,Software|Baixo|c:o sistema de faturamento|apresenta erro ao iniciar
+197,"Oi, o login único está fora do ar e nenhum colaborador entra nos sistemas. Estou no 2º andar.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m4
+198,"Pessoal, o roteador caiu e afeta duas pessoas da minha equipe. Podem verificar? Estou no 2º andar.",Redes,Médio,Redes|Médio|c:o roteador|caiu
+199,"O código de verificação em dois fatores foi negado e só eu estou com esse problema, mas tenho um relatório para entregar.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o código de verificação em dois fatores|foi negado
+200,Preciso de ajuda: o ERP não funciona sem urgência. Setor administrativo.,Software,Baixo,Software|Baixo|c:o ERP|não funciona
+201,O Outlook deixou de funcionar e o prejuízo aumenta a cada minuto. Podem verificar?,Software,Alto,Software|Alto|c:o Outlook|deixou de funcionar
+202,Preciso de ajuda: o mouse não funciona e consigo trabalhar aepnas de forma limitada. Podem verificar? Setor comercial.,Hardware,Médio,Hardware|Médio|c:o mouse|não funciona
+203,"Pessoal, o servidor de arquivos apresenta defeito e a diretoria cobra solução imediata Sala 204.",Hardware,Alto,Hardware|Alto|c:o servidor de arquivos|apresenta defeito
+204,"Oi, não consigo acessar a pasta compartilhdaa da rede do financeiro. Podem verificar?",Redes,Médio,Redes|Médio|m2
+205,O servidor DNS não conecta sem urgência. Qualquer novidade me avisem.,Redes,Baixo,Redes|Baixo|c:o servidor DNS|não conecta
+206,"pessoal, o login único apresenta erro ao entrar e o prejuízo aumenta a cada minuto. aguardo retorno.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:o login único|apresenta erro ao entrar
+207,O acesso ao e-mail deixou de funcionar mas nao tem pressa Setor comercial.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o acesso ao e-mail|deixou de funcionar
+208,"Pessoal, o código de verificação em dois fatores deixou de funcionar e isso está atrasando minhas tarefas",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o código de verificação em dois fatores|deixou de funcionar
+209,As videochamadas ficam travando por causa da conexão instável.,Redes,Médio,Redes|Médio|m3
+210,"Boa tarde, o servidor principal desligou sozinho e todos os sistemas estão fora do ar",Hardware,Alto,Hardware|Alto|m0
+211,Preciso de ajuda: o servidor principal desligou sozinho e todos os sistemas estão fora do ar Estou no 2º andar.,Hardware,Alto,Hardware|Alto|m0
+212,"Oi, a webcam do meu computador não é reconhecida e preciso dela para as reuniões da semana. Obrigado. Estou no 2º andar.",Hardware,Médio,Hardware|Médio|m9
+213,"Olá, o disco do servidor de arquivos falhou e ninguém acessa os documentos da empresa. Setor administrativo.",Hardware,Alto,Hardware|Alto|m3
+214,Meu notebook está superaquecendo e desligando durante as videochamadas.,Hardware,Médio,Hardware|Médio|m0
+215,Preciso de ajuda: o acesso ao e-mail falhou na autenticação e a diretoria cobra solução imediata Obrigado.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:o acesso ao e-mail|falhou na autenticação
+216,Preciso de ajuda: pergunta sobre a garantia do meu monitor novo Setor administrativo.,Hardware,Baixo,Hardware|Baixo|m9
+217,Solicito um cofre de senhas para organizar meus acessos quando possível. Setor comercial.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m7
+218,A conexão com o servidor apresenta falha de comunicação só estou avisando para constar. Podem verificar? Sala 204.,Redes,Baixo,Redes|Baixo|c:a conexão com o servidor|apresenta falha de comunicação
+219,"Oi, a VPN não funciona mas não tem pressa. Filial centro.",Redes,Baixo,Redes|Baixo|c:a VPN|não funciona
+220,"bom dia. o ponto de rede da minha mesa oscila bastante e os clientes estão snedo afetados, é urgente. qualquer novidade me avisem.",Redes,Alto,Redes|Alto|c:o ponto de rede da minha mesa|oscila bastante
+221,Bom dia. o sistema de faturamento apresenta erro ao iniciar e afeta duas pessoas da minha equipe,Software,Médio,Software|Médio|c:o sistema de faturamento|apresenta erro ao iniciar
+222,Preciso de ajuda: o disco do servidor de arquivos falhou e ninguém acessa os documentos da empresa. Setor administrativo.,Hardware,Alto,Hardware|Alto|m3
+223,"Olá, meu acesso ao sistema apresenta erro ao entrar e ninguém consegue trabalhar Obrigado. Sala 204.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:meu acesso ao sistema|apresenta erro ao entrar
+224,preciso de ajuda: o wi-fi cai a cada dez minutos no meu setor qualquer novidade me avisem. filial centro.,Redes,Médio,Redes|Médio|m1
+225,"oi, o monitor fica piscando de vez em quando e atrapalha meu trabalho. setor administrativo.",Hardware,Médio,Hardware|Médio|m1
+226,bom dia. sugestão de melhoria: incluir um botão de expotrar na tela de relatórios aguardo retorno.,Software,Baixo,Software|Baixo|m7
+227,"Pessoal, foi detectado acesso indevido a uma conta de administrador agora mesmo. Obrigado.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m5
+228,O sistema de faturamento não abre e fico no aguardo sem prazo definido. Obrigado. Setor administrativo.,Software,Baixo,Software|Baixo|c:o sistema de faturamento|não abre
+229,Bom dia. o desktop da recepção não funciona e todos os setores estão sem conseguir trabalhar.,Hardware,Alto,Hardware|Alto|c:o desktop da recepção|não funciona
+230,"Olá, o teclado parou de funcionar e consigo trabalhar apenas de forma limitada. Qualquer novidade me avisem.",Hardware,Médio,Hardware|Médio|c:o teclado|parou de funcionar
+231,"Boa tarde, a rede cabeada parou de funcionar sem urgência. Qualquer novidade me avisem. Estou no 2º andar.",Redes,Baixo,Redes|Baixo|c:a rede cabeada|parou de funcionar
+232,Bom dia. minha senha deixou de funcionar só estou avisando para constar. Qualquer novidade me avisem. Filial centro.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:minha senha|deixou de funcionar
+233,O teclado parou de funcionar só estou avisando para cnostar Obrigado. Estou no 2º andar.,Hardware,Baixo,Hardware|Baixo|c:o teclado|parou de funcionar
+234,"Pessoal, o firewall nao conecta e todas as filiias estao sem atendimento. Qualquer novidade me avisem. Filial centro.",Redes,Alto,Redes|Alto|c:o firewall|não conecta
+235,"Oi, o desktop da recepcao nao funciona e os clientes estao sendo afetados, e urgente Sala 204.",Hardware,Alto,Hardware|Alto|c:o desktop da recepção|não funciona
+236,"Pessoal, o switch do andar não conecta e isso está atrasando minhas tarefas Estou no 2º andar.",Redes,Médio,Redes|Médio|c:o switch do andar|não conecta
+237,O ponto de rede da minha mesa caiu e preciso de uma solução aidna esta semana Sala 204.,Redes,Médio,Redes|Médio|c:o ponto de rede da minha mesa|caiu
+238,"Olá, o login único falhou na autenticação e isso está atrasando minhas tarefas. Obrigado. Filial centro.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o login único|falhou na autenticação
+239,"Oi, o navegador não funciona só estou avisando para constar. Obrigado.",Software,Baixo,Software|Baixo|c:o navegador|não funciona
+240,"Oi, não consigo concetar o notebook na rede da sala de reunião. Podem verificar? Sala 204.",Redes,Médio,Redes|Médio|m6
+241,"Boa tarde, o antivirus nao abre mas tenho outra opcao funcionando bem Qualquer novidade me avisem. Setor administrativo.",Software,Baixo,Software|Baixo|c:o antivírus|não abre
+242,O aplicativo de contabilidade apresenta erro ao importar o arquivo do banco. Aguardo retorno. Setor comercial.,Software,Médio,Software|Médio|m9
+243,"Pessoal, o headset não funciona e estou usando um contorno provisório. Obrigado. Setor comercial.",Hardware,Médio,Hardware|Médio|c:o headset|não funciona
+244,"A conexão com o servidor cai toda hora e só eu estou com esse problema, mas tenho um relatório para entregar. Obrigado. Setor comercial.",Redes,Médio,Redes|Médio|c:a conexão com o servidor|cai toda hora
+245,"Olá, a impressora do andar trava o papel com frequência. Qualquer novidade me avisem.",Hardware,Médio,Hardware|Médio|m2
+246,o ERP trava ao abrir e consigo trabalhar apenas de forma limitada Podem verificar?,Software,Médio,Software|Médio|c:o ERP|trava ao abrir
+247,"Pessoal, minha conta apresenta erro ao entrar mas ainda dá para usar com dificuldade Obrigado. Setor comercial.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:minha conta|apresenta erro ao entrar
+248,Preciso de ajuda: o ERP apresenta erro crítico e todos os usuários perderam o acesso aos pedidos Sala 204.,Software,Alto,Software|Alto|m1
+249,Bom dia. gostaria de saber qual é a política de troca de senhas. Qualquer novidade me avisem. Setor administrativo.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m0
+250,"Boa tarde, minha conta está bloqueada depois de várias tentativas de login Setor comercial.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m1
+251,"Oi, o Teams mostra uma mensagem de erro e pode ser tratado na próxima manutenção. Podem verificar? Setor administrativo.",Software,Baixo,Software|Baixo|c:o Teams|mostra uma mensagem de erro
+252,O firewall caiu só estou avisando para constar,Redes,Baixo,Redes|Baixo|c:o firewall|caiu
+253,Preciso de ajuda: a permissão de edição da palnilha compartilhada foi removida e preciso dela. Aguardo retorno. Filial centro.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m7
+254,o cadastro no portal não funciona e isso atrapalha meu trabalho hoje. Sala 204.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o cadastro no portal|não funciona
+255,"Pessoal, o roteador ficou instavel e ninguem consegue trabalhar. Aguardo retorno.",Redes,Alto,Redes|Alto|c:o roteador|ficou instável
+256,"Oi, a rede cabeada da minha baia perde pacotes e a transferência de arquivos falha Obrigado.",Redes,Médio,Redes|Médio|m9
+257,O desktop da recepção parou de funcionar e afeta duas pessoas da minha equipe Estou no 2º andar.,Hardware,Médio,Hardware|Médio|c:o desktop da recepção|parou de funcionar
+258,"Boa tarde, o servidor DNS não resolve nomes e todos os sistemas internos estão inacessíveis. Filial centro.",Redes,Alto,Redes|Alto|m5
+259,Preciso de ajuda: preciso de um cabo de carregador reserva para deixar na mesa Sala 204.,Hardware,Baixo,Hardware|Baixo|m5
+260,"Oi, o ping para o servidor de arquivos osclia bastante no meu andar. Filial centro.",Redes,Médio,Redes|Médio|m8
+261,"Oi, todos os usuários do financeiro estão bloqueados e o fechamento do mês vence hoje.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m2
+262,Todos os usuários do financeiro estão bloqueados e o fechamento do mês vence hoje. Qualquer novidade me avisem.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|m2
+263,o ponto de rede da minha mesa parou de funcionar e consigo trabalhar apenas de forma limitdaa Filial centro.,Redes,Médio,Redes|Médio|c:o ponto de rede da minha mesa|parou de funcionar
+264,alguém tentou entrar com minha senha de outro país e a conta de diretoria está exposta.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|m8
+265,Preciso de ajuda: o ponto de rede da minha mesa não funciona e estou usando wi-fi Estou no 2º andar.,Redes,Médio,Redes|Médio|m5
+266,O Windows trava ao abrir e isso atrapalha meu trabalho hoje.,Software,Médio,Software|Médio|c:o Windows|trava ao abrir
+267,O computador está muito lento e demora minutos para abrir qualquer programa Podem verificar?,Hardware,Médio,Hardware|Médio|m4
+268,o cadastro no portal falhou na autenticação sem urgência. Estou no 2º andar.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o cadastro no portal|falhou na autenticação
+269,"Olá, o nome do wi-fi dos visitantes está com erro de digitação. Setor comercial.",Redes,Baixo,Redes|Baixo|m5
+270,Bom dia. o HD externo falhou de repente e estamos perdendo vendas agora. Sala 204.,Hardware,Alto,Hardware|Alto|c:o HD externo|falhou de repente
+271,Preciso de ajuda: o headset parou de funcionar mas não tem pressa.,Hardware,Baixo,Hardware|Baixo|c:o headset|parou de funcionar
+272,preciso de ajuda: o computador do caixa não liga e a loja está parada sem conseguir vender. setor administrativo.,Hardware,Alto,Hardware|Alto|m1
+273,"Oi, o mouse sem fio desconecta toda hora",Hardware,Médio,Hardware|Médio|m5
+274,Meu usuário falhou na autenticação e estou usando um contorno provisório. Filial centro.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:meu usuário|falhou na autenticação
+275,Preciso de ajuda: o servidor de arquivos esquenta demais e desliga e não está atrapalhando meu trabalho Pdoem verificar?,Hardware,Baixo,Hardware|Baixo|c:o servidor de arquivos|esquenta demais e desliga
+276,"Olá, o acesso ao sistema de compras expirou e preciso resolver até o fim do dia Sala 204.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o acesso ao sistema de compras|expirou
+277,"Oi, o switch do andar parou de funcionar e pode ser resolvido na próxima semana Sala 204.",Redes,Baixo,Redes|Baixo|c:o switch do andar|parou de funcionar
+278,Solicito a isntalação de um programa de captura de tela. Estou no 2º andar.,Software,Baixo,Software|Baixo|m4
+279,"Boa tarde, o sistema de ponto eletrônico travou e ninguém consegue registrar a entrada",Software,Alto,Software|Alto|m5
+280,"Olá, o aplicativo de venads deixou de funcionar mas não tem pressa. Obrigado.",Software,Baixo,Software|Baixo|c:o aplicativo de vendas|deixou de funcionar
+281,"Pessoal, minha senha expirou e o portal não deixa cadastrar outra.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m4
+282,Preciso de ajuda: o mouse deixou de funcionar e afeta duas pessoas da minha equipe. Obrigado. Sala 204.,Hardware,Médio,Hardware|Médio|c:o mouse|deixou de funcionar
+283,"Pessoal, o Windows parou de funcionar depois da atualizacao e consigo trabalhar apenas de forma limitada Aguardo retorno. Setor administrativo.",Software,Médio,Software|Médio|c:o Windows|parou de funcionar depois da atualização
+284,O switch central travou e o andar inteiro está sem rede. Setor administrativo.,Redes,Alto,Redes|Alto|m7
+285,O notebook do diretor caiu e a tela quebrou antes da reunião com o cliente em uma hora. Sala 204.,Hardware,Alto,Hardware|Alto|m5
+286,Bom dia. um ransomware criptografou os arquivos de vários computadores e exige resgate. Qualquer novidade me avisem. Setor administrativo.,Software,Alto,Software|Alto|m4
+287,Dúvida sobre como alterar a assinatura do e-mail Aguardo retorno.,Software,Baixo,Software|Baixo|m1
+288,Preciso de ajuda: a impressora nao liga mas ainda da para usar com dificuldade Podem verificar? Filail centro.,Hardware,Médio,Hardware|Médio|c:a impressora|não liga
+289,o scanner deixou de funcionar mas ainda da para usar com dificuldade. Setor comercial.,Hardware,Médio,Hardware|Médio|c:o scanner|deixou de funcionar
+290,"Olá, o monitor não funciona e os clientes estão sendo afetados, é urgente. Aguardo retorno.",Hardware,Alto,Hardware|Alto|c:o monitor|não funciona
+291,"Pessoal, meu usuario nao aparece no grupo do departamento e nao vejo os arquivos da equipe Aguardo retorno.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m9
+292,"O switch do andar não funciona e os clientes estão sendo afetados, é urgente. Qualquer novidade me avisem. Sala 204.",Redes,Alto,Redes|Alto|c:o switch do andar|não funciona
+293,"Olá, o navegador está lento e mostra erro ao abrir o sistema de chamados. Podem verificar? Setor administrativo.",Software,Médio,Software|Médio|m2
+294,"Oi, o código de verificação em dois fatores foi negado e pode ser tratado na próxima manutenção. Estou no 2º andar.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o código de verificação em dois fatores|foi negado
+295,Preciso de ajuda: quero saber qual e a velocidade contratada do nosso link de internet. Estou no 2o andar.,Redes,Baixo,Redes|Baixo|m9
+296,"Pessoal, meu usuário não aparece no grupo do departamento e não vejo os arquivos da equipe.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m9
+297,"Pessoal, solicito um cofre de senhas para organizar meus acessos quando possível Aguardo retorno.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m7
+298,"Oi, o Outlook não salva os dados e estamos perdendo vendas agora Obrigado.",Software,Alto,Software|Alto|c:o Outlook|não salva os dados
+299,"Olá, o nobreak parou de funcionar e preciso de uma solução ainda esta semana. Aguardo retorno.",Hardware,Médio,Hardware|Médio|c:o nobreak|parou de funcionar
+300,"Olá, o sistema trava ao gerar o relatório mensal e perco o que estava fazendo Podem verificar?",Software,Médio,Software|Médio|m6
+301,O rack está superaquecendo e desligando equipamentos da produção Aguardo retorno.,Hardware,Alto,Hardware|Alto|m6
+302,"Oi, o servidor DNS caiu e os clientes estão sendo afetados, é urgente Qualquer novidade me avisem. Setor administrativo.",Redes,Alto,Redes|Alto|c:o servidor DNS|caiu
+303,Meu acesso ao sistema não funciona e não está atrapalhando meu trabalho.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:meu acesso ao sistema|não funciona
+304,"Oi, o wi-fi da empresa inteira não conecta desde cedo.",Redes,Alto,Redes|Alto|m2
+305,O wi-fi oscila bastante e isso está atrasando minhas tarefas. Obrigado. Setor comercial.,Redes,Médio,Redes|Médio|c:o wi-fi|oscila bastante
+306,"Olá, não recebo o código de verificação em dois fatores no celular. Qualquer novidade me avisem.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m2
+307,Bom dia. o switch central travou e o anadr inteiro está sem rede. Estou no 2º andar.,Redes,Alto,Redes|Alto|m7
+308,"Boa tarde, a atualização do sistema apagou os dados dos clientes Qualquer novidade me avisem. Setor administrativo.",Software,Alto,Software|Alto|m3
+309,Bom dia. o roteador da matriz reiniciou em loop e as filiais estão sem comunicação. Qualquer novidade me avisem.,Redes,Alto,Redes|Alto|m8
+310,O acesso ao e-mail apresenta erro ao entrar e nao esta atrapalhando meu trabalho. Filial centro.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o acesso ao e-mail|apresenta erro ao entrar
+311,"Pessoal, vários computadores do laboratório não ligam depois da queda de energia Qualquer novidade me avisem.",Hardware,Alto,Hardware|Alto|m7
+312,"Oi, a conexão com o servidor oscila bastante e só eu estou com esse problema, mas tenho um relatório para entregar Qualquer novidade me avisem.",Redes,Médio,Redes|Médio|c:a conexão com o servidor|oscila bastante
+313,meu acesso ao sistema foi bloqueado e preciso de uma solução ainda esta semana.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:meu acesso ao sistema|foi bloqueado
+314,"Olá, o sistema de faturamento está fora do ar e não conseguimos emitir notas fsicais Obrigado. Setor comercial.",Software,Alto,Software|Alto|m0
+315,Bom dia. gostaria de instalar um editor de PDF no meu computador quando possível. Aguardo retorno. Estou no 2º andar.,Software,Baixo,Software|Baixo|m0
+316,Preciso de ajuda: o login único falhou na autenticação e pode ser tratado na próxima manutenção.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o login único|falhou na autenticação
+317,Gostaria de saber a sneha do wi-fi para visitantes da semana que vem Obrigado. Setor comercial.,Redes,Baixo,Redes|Baixo|m0
+318,Não recebo o código de verificação em dois fatoers no celular.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m2
+319,Bom dia. o Excel fecha sozinho quando abro a planilha de relatórios. Qualquer novidade me avisem.,Software,Médio,Software|Médio|m0
+320,"Pessoal, vários computadores do laboratório não ligam depois da queda de energia Sala 204.",Hardware,Alto,Hardware|Alto|m7
+321,"Oi, o cadastro no portal não funciona e só eu estou com esse problema, mas tenho um relatório para entregar. Obrigado. Sala 204.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o cadastro no portal|não funciona
+322,O aplicativo de vendas apresenta erro ao iniciar e preciso de uma solução ainda esta semana. Obrigado.,Software,Médio,Software|Médio|c:o aplicativo de vendas|apresenta erro ao iniciar
+323,O firewall oscila bastante e preciso resolver até o fim do dia. Aguardo retorno. Filial centro.,Redes,Médio,Redes|Médio|c:o firewall|oscila bastante
+324,Bom dia. as videochamadas ficam travando por causa da conexão instável. Podem verificar?,Redes,Médio,Redes|Médio|m3
+325,"Oi, o muose sem fio desconecta toda hora. Obrigado. Filial centro.",Hardware,Médio,Hardware|Médio|m5
+326,"oi, o plugin do navegador deixou de funcionar e não consigo assinar os documentos. aguardo retorno. sala 204.",Software,Médio,Software|Médio|m8
+327,A rede cabeada oscila bastante e preciso resolver até o fim do dia. Qualquer novidade me avisem. Setor administrativo.,Redes,Médio,Redes|Médio|c:a rede cabeada|oscila bastante
+328,"A fonte do computador falhou de repente e os clientes estão sendo afetados, é urgente. Qualquer novidade me avisem.",Hardware,Alto,Hardware|Alto|c:a fonte do computador|falhou de repente
+329,Bom dia. posso pegar emprestado um adaptador HDMI na semana que vem. Filial centro.,Hardware,Baixo,Hardware|Baixo|m3
+330,"Pessoal, minha conta foi invadida e estão enviando e-mails em meu nome. Sala 204.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m0
+331,"Boa tarde, o editor de planilhas deixou de funcionar e os clientes estão sendo afetados, é urgente Setor administrativo.",Software,Alto,Software|Alto|c:o editor de planilhas|deixou de funcionar
+332,"Oi, meu usuário deixou de funcionar e estou usando um contorno provisório.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:meu usuário|deixou de funcionar
+333,"Pessoal, o aplicativo de vendas apresenta erro ao iniciar e pode ser resolvido na próxima semana Obrigado.",Software,Baixo,Software|Baixo|c:o aplicativo de vendas|apresenta erro ao iniciar
+334,"Oi, pergunta sobre o przao de validade das senhas da empresa. Podem verificar? Filial centro.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m4
+335,Bom dia. meu usuário falhou na autenticação e estou usando um contorno provisório Filial centro.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:meu usuário|falhou na autenticação
+336,Alguém tentou entrar com minha senha de outro país e a conta de diretoria está exposta Podem verificar?,Acessos/Senhas,Alto,Acessos/Senhas|Alto|m8
+337,"Pessoal, a internet caiu em todo o prédio e ninguém consegue trabalhar.",Redes,Alto,Redes|Alto|m0
+338,A permissão da pasta compartilhada apresenta erro ao entrar e estamos perdendo vendas agora. Qualquer novidade me avisem. Setor administrativo.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:a permissão da pasta compartilhada|apresenta erro ao entrar
+339,"Olá, foi detectado acesso indevido a uma conta de administrador agora mesmo. Filial centro.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m5
+340,"Pessoal, tem como trocar a cor da capa do notebook corpoartivo no próximo ciclo de compras. Filial centro.",Hardware,Baixo,Hardware|Baixo|m8
+341,o aplicativo de vendas fecha sozinho e pode ser resolvido na próxima semana. podem verificar? estou no 2º andar.,Software,Baixo,Software|Baixo|c:o aplicativo de vendas|fecha sozinho
+342,"Olá, pode atualizar a versão do navegador na próxima manutenção. Obrigado. Filial centro.",Software,Baixo,Software|Baixo|m2
+343,bom dia. o roteador da matriz reiniciou em loop e as filiais estão sem comunicação. sala 204.,Redes,Alto,Redes|Alto|m8
+344,"Oi, o antivírus não salva os dados e dá para ver quando houver uma oportunidade. Aguardo retorno. Filial centro.",Software,Baixo,Software|Baixo|c:o antivírus|não salva os dados
+345,"ola, o scnaner deixou de funcionar mas nao tem pressa. podem verificar?",Hardware,Baixo,Hardware|Baixo|c:o scanner|deixou de funcionar
+346,"Oi, o scanner não liga mas ainda dá para usar com dificuldade.",Hardware,Médio,Hardware|Médio|c:o scanner|não liga
+347,"Boa tarde, o Teams não abre a câmera nas reuniões. Qualquer novidade me avisem.",Software,Médio,Software|Médio|m7
+348,o scanner falhou de repente e o prejuízo aumenta a cada minuto. setor comercial.,Hardware,Alto,Hardware|Alto|c:o scanner|falhou de repente
+349,"Olá, a VPN está fora do ar e toda a equipe remota está parada Podem verificar? Sala 204.",Redes,Alto,Redes|Alto|m1
+350,"Oi, o wi-fi não conecta e pode ser tratado na próxima manutenção. Qualquer novidade me avisem. Sala 204.",Redes,Baixo,Redes|Baixo|c:o wi-fi|não conecta
+351,O programa de contabilidade apresenta erro ao iniciar só estou avisando para constar. Podem verificar? Estou no 2º andar.,Software,Baixo,Software|Baixo|c:o programa de contabilidade|apresenta erro ao iniciar
+352,"Pessoal, o acesso ao e-mail deixou de funcionar e só eu estou com esse problema, mas tenho um relatório para entregar. Setor administrativo.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:o acesso ao e-mail|deixou de funcionar
+353,"Oi, o tema escuro do sistema interno poderia ser configurado. Aguardo retorno. Sala 204.",Software,Baixo,Software|Baixo|m5
+354,"Boa tarde, a rede cabeada oscila bastante e não está atrapalhando meu trabalho Podem verificar? Setor administrativo.",Redes,Baixo,Redes|Baixo|c:a rede cabeada|oscila bastante
+355,"Oi, minha conta foi invadida e estão enviando e-mails em meu nome. Filial centro.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m0
+356,"Oi, quero solicitar acesso de leitura a um relatório que consulto de vez em quando. Podem verificar? Estou no 2º andar.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m2
+357,Preciso de ajuda: suspeita de vazamento da senha do administrador do servidor,Acessos/Senhas,Alto,Acessos/Senhas|Alto|m3
+358,"Olá, o Teams fecha sozinho e isso atrapalha meu trabalho hoje. Obrigado.",Software,Médio,Software|Médio|c:o Teams|fecha sozinho
+359,O ponto de rede da minha mesa caiu e isso atrapalha meu trabalho hoje. Qualquer novidade me avisem. Sala 204.,Redes,Médio,Redes|Médio|c:o ponto de rede da minha mesa|caiu
+360,"Olá, meu acesso ao sistema falhou na autenticação e preciso resolver até o fim do dia. Obrigado. Setor administrativo.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:meu acesso ao sistema|falhou na autenticação
+361,"Pessoal, o desktop da recepção apresenta defeito e pode ser resolvido na próxima semana. Podem verificar? Estou no 2º andar.",Hardware,Baixo,Hardware|Baixo|c:o desktop da recepção|apresenta defeito
+362,O editor de planilhas não funciona só estou avisando para constar.,Software,Baixo,Software|Baixo|c:o editor de planilhas|não funciona
+363,"Oi, o adesivo do patrimônio do meu computador dsecolou Setor comercial.",Hardware,Baixo,Hardware|Baixo|m1
+364,"Olá, o ERP mostra uma mensagem de erro e estou usando um contorno provisório. Qualquer novidade me avisem.",Software,Médio,Software|Médio|c:o ERP|mostra uma mensagem de erro
+365,"Oi, como altero o idioma do aplicativo para português",Software,Baixo,Software|Baixo|m6
+366,Preciso de ajuda: a nova versão do sistema derrubou o atendimento e as filas estão paradas Obrigado. Estou no 2º andar.,Software,Alto,Software|Alto|m9
+367,"Boa tarde, a permissao de edciao da planilha compartilhada foi removida e preciso dela. Aguardo retorno.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m7
+368,"Boa tarde, meu notebook esta superaquecendo e desligando durante as videochamadas. Podem verificar? Setor comercial.",Hardware,Médio,Hardware|Médio|m0
+369,"Olá, o notebook deixou de responder e preciso de uma solução ainda esta semana. Setor administrativo.",Hardware,Médio,Hardware|Médio|c:o notebook|deixou de responder
+370,o token de autenticação em dois fatores parou e a equipe inteira está sem acesso. Podem verificar? Estou no 2º andar.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|m6
+371,O teclado esquenta demais e desliga e estou usando um contorno provisório. Podem verificar? Filial centro.,Hardware,Médio,Hardware|Médio|c:o teclado|esquenta demais e desliga
+372,o servidor DNS não conecta e preciso resolver até o fim do dia. Filial centro.,Redes,Médio,Redes|Médio|c:o servidor DNS|não conecta
+373,"O Outlook trava ao abrir e so eu estou com esse problema, mas tenho um relatorio para entregar. Obrigado. Sala 204.",Software,Médio,Software|Médio|c:o Outlook|trava ao abrir
+374,"pessoal, o acesso ao sistema de compras não funciona e todas as filiais estão sem atendimento. aguardo retorno. setor comercial.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:o acesso ao sistema de compras|não funciona
+375,"Oi, a impressora faz um barulho estranho e há rsico para os dados da empresa",Hardware,Alto,Hardware|Alto|c:a impressora|faz um barulho estranho
+376,Preciso de ajuda: o acesso à VPN foi negado para o meu usuário. Qualquer novidade me avisem.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m6
+377,"Boa tarde, o nobreak apresenta defeito e todas as filiais estão sem atendimento. Aguardo retorno. Sala 204.",Hardware,Alto,Hardware|Alto|c:o nobreak|apresenta defeito
+378,posso pedir um cabo de rede mais longo para minha estação.,Redes,Baixo,Redes|Baixo|m7
+379,dúvida sobre qual rede devo usar no meu celular pessoal. obrigado. sala 204.,Redes,Baixo,Redes|Baixo|m1
+380,Preciso de ajuda: existe um guia sobre como funcionam os perfis de acesso.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m8
+381,Gostaria de saber a senha do wi-fi para visitantes da semana que vem Sala 204.,Redes,Baixo,Redes|Baixo|m0
+382,O monitor parou de funcionar e a diretoria cobra solução imediata Setor comercial.,Hardware,Alto,Hardware|Alto|c:o monitor|parou de funcionar
+383,Existe um guia sobre como funcionam os perfis de acesso.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m8
+384,Sugestão de melhoria: incluir um botão de exportar na tela de relatórios Podem verificar? Setor administrativo.,Software,Baixo,Software|Baixo|m7
+385,"olá, o storage de backup emitiu alarme de disco danificado e os dados da empresa estão em risco. setor administrativo.",Hardware,Alto,Hardware|Alto|m8
+386,O Teams parou de funcionar depois da atualização e estamos perdendo vendas agora. Obrigado. Setor administrativo.,Software,Alto,Software|Alto|c:o Teams|parou de funcionar depois da atualização
+387,"Boa tarde, o código de verificação em dois fatores falhou na autenticação e não está atrapalhando meu trabalho. Estou no 2º andar.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o código de verificação em dois fatores|falhou na autenticação
+388,"Boa tarde, o rack esta superaquecendo e desligando equipamentos da producao. Podem verificar? Estou no 2o andar.",Hardware,Alto,Hardware|Alto|m6
+389,existe um mapa com a cobertura do wi-fi nos andares,Redes,Baixo,Redes|Baixo|m8
+390,"Ola, o sistema trava ao gerar o relatorio mensal e perco o que estava fazendo. Aguardo retorno. Setor administrativo.",Software,Médio,Software|Médio|m6
+391,O nobreak deixou de responder e o prejuízo aumenta a cada minuto Estou no 2º andar.,Hardware,Alto,Hardware|Alto|c:o nobreak|deixou de responder
+392,O firewall ficou instável e estou usando um contorno provisório. Aguardo retorno. Filial centro.,Redes,Médio,Redes|Médio|c:o firewall|ficou instável
+393,"Pessoal, a internet está muito lenta na minha sala desde ontem. Estou no 2º andar.",Redes,Médio,Redes|Médio|m0
+394,Bom dia. dúvida sobre como alterar a assinatura do e-mail Obrigado. Setor comercial.,Software,Baixo,Software|Baixo|m1
+395,Bom dia. o notebook do diretor caiu e a tela quebrou antes da reuniao com o cliente em uma hora. Obrigado.,Hardware,Alto,Hardware|Alto|m5
+396,"Boa tarde, o programa de edição de vídeo trava toda vez que exporto.",Software,Médio,Software|Médio|m1
+397,O servidor de arquivos faz um barulho estranho e não está atrapalhando meu trabalho Podem verificar?,Hardware,Baixo,Hardware|Baixo|c:o servidor de arquivos|faz um barulho estranho
+398,O site da intranet demora muito para carregar.,Redes,Médio,Redes|Médio|m7
+399,O acesso ao sistema de compras apresenta erro ao entrar só estou avisando para constar. Podem verificar? Sala 204.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:o acesso ao sistema de compras|apresenta erro ao entrar
+400,"Olá, o sistema de faturamento mostra uma mensagem de erro e a operação inteira parou.",Software,Alto,Software|Alto|c:o sistema de faturamento|mostra uma mensagem de erro
+401,O wi-fi da empresa inteira não conecta desde cedo. Aguardo retorno. Estou no 2º andar.,Redes,Alto,Redes|Alto|m2
+402,"Olá, o teclado perdeu algumas teclas e preciso de outro para trabalhar direito. Aguardo retorno. Estou no 2º andar.",Hardware,Médio,Hardware|Médio|m3
+403,Preciso de ajuda: o wi-fi peredu a conexão mas tenho outra opção funcionando bem. Qualquer novidade me avisem. Sala 204.,Redes,Baixo,Redes|Baixo|c:o wi-fi|perdeu a conexão
+404,como configuro a impressora de rede no meu notebook novo quando der. Qualquer novidade me avisem. Estou no 2º andar.,Redes,Baixo,Redes|Baixo|m3
+405,Posso pedir um cabo de rede mais longo para minha estação. Qualquer novidade me avisem. Sala 204.,Redes,Baixo,Redes|Baixo|m7
+406,O Teams fecha sozinho e a diretoria cobra solução imediata. Podem verificar? Filial centro.,Software,Alto,Software|Alto|c:o Teams|fecha sozinho
+407,"Boa tarde, queria trocar meu mouse por um modelo mais confortável quando possível. Podem verificar?",Hardware,Baixo,Hardware|Baixo|m2
+408,"Olá, o programa de contabiliadde trava ao abrir e pode ser tratado na próxima manutenção.",Software,Baixo,Software|Baixo|c:o programa de contabilidade|trava ao abrir
+409,"pessoal, o sistema de faturaemnto apresenta erro ao iniciar mas tenho outra opção funcionando bem.",Software,Baixo,Software|Baixo|c:o sistema de faturamento|apresenta erro ao iniciar
+410,"Ola, o wi-fi oscila bastante e estou usando um contorno provisorio. Estou no 2o andar.",Redes,Médio,Redes|Médio|c:o wi-fi|oscila bastante
+411,"Boa tarde, o servidor DNS não resolve nomes e todos os sistemas internos estão inacessíveis. Aguardo retorno. Setor administrativo.",Redes,Alto,Redes|Alto|m5
+412,"Oi, a internet esta muito lenta na minha sala desde ontem. Estou no 2o andar.",Redes,Médio,Redes|Médio|m0
+413,Preciso de ajuda: minha senha expirou e o portal não deixa cadastrar outra Qualquer novidade me avisem. Filial centro.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m4
+414,"Pessoal, o headset parou de funcionar e o prejuízo aumenta a cada minuto.",Hardware,Alto,Hardware|Alto|c:o headset|parou de funcionar
+415,"Oi, o aplicativo de vendas mostra uma mensagem de erro e o prejuízo aumenta a cada minuto. Sala 204.",Software,Alto,Software|Alto|c:o aplicativo de vendas|mostra uma mensagem de erro
+416,"Olá, o navegador não abre e estamos perdendo vendas agora.",Software,Alto,Software|Alto|c:o navegador|não abre
+417,O desktop da recepção deixou de funcionar e o prejuízo aumenta a cada minuto,Hardware,Alto,Hardware|Alto|c:o desktop da recepção|deixou de funcionar
+418,"Boa tarde, minha conta está bloqueada depois de várias tentativas de login. Qualquer novidade me avisem. Filial centro.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m1
+419,preciso de ajuda: o banco de dados corrompeu e a aplicação de produção parou aguardo retorno. estou no 2º andar.,Software,Alto,Software|Alto|m2
+420,o ponto de rede da minha mesa apresenta falha de comunicação e consigo trabalhar apenas de forma limitada. podem verificar? filial centro.,Redes,Médio,Redes|Médio|c:o ponto de rede da minha mesa|apresenta falha de comunicação
+421,A fonte do computador falhou de repente e não está atrapalhando meu trabalho Aguardo retorno. Sala 204.,Hardware,Baixo,Hardware|Baixo|c:a fonte do computador|falhou de repente
+422,Bom dia. gostaria de entender a diferença entre as redes wi-fi da empresa.,Redes,Baixo,Redes|Baixo|m6
+423,"Olá, suspeita de vazamento da senha do administrador do servidor. Augardo retorno. Estou no 2º andar.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|m3
+424,"Oi, queria um tutorial de como usar as planilhas compartilhadas Estou no 2º andar.",Software,Baixo,Software|Baixo|m3
+425,Solicito um mousepad novo quando houver estoque. Aguardo retorno. Sala 204.,Hardware,Baixo,Hardware|Baixo|m7
+426,"Boa tarde, o aplicativo de vendas não abre e afeta duas pessoas da minha equipe.",Software,Médio,Software|Médio|c:o aplicativo de vendas|não abre
+427,"Boa tarde, a internet oscila bastante e há risco para os dados da empresa. Obrigado. Setor comercial.",Redes,Alto,Redes|Alto|c:a internet|oscila bastante
+428,"Olá, o editor de planilhas apresenta erro ao iniciar e a diretoria cobra solução imediata. Aguardo retorno. Setor comercial.",Software,Alto,Software|Alto|c:o editor de planilhas|apresenta erro ao iniciar
+429,A conexão com o servidor caiu e a diretoria cobra solução imediata Podem verificar? Filial centro.,Redes,Alto,Redes|Alto|c:a conexão com o servidor|caiu
+430,Minha conta foi bloqueado e não está atrapalhando meu trabalho. Estou no 2º andar.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:minha conta|foi bloqueado
+431,"Olá, não consigo conectar o notebook na rede da sala de reunião. Podem verificar? Setor administrativo.",Redes,Médio,Redes|Médio|m6
+432,Bom dia. minha senha foi bloqueado mas tenho outra opção funcionando bem. Podem verificar? Sala 204.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:minha senha|foi bloqueado
+433,preciso de ajuda: queria solicitar um ponto de rede extra para a mesa nova no próximo mês. aguardo retorno.,Redes,Baixo,Redes|Baixo|m2
+434,"Olá, minha senha não funciona e pode ser resolvido na próxima semana Podem verificar? Sala 204.",Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|c:minha senha|não funciona
+435,"Olá, queria um tutorial de como usar as planilhas compartilhadas. Aguardo retorno. Filial centro.",Software,Baixo,Software|Baixo|m3
+436,preciso de ajuda: a atualização do windows falhou e o computador fica reiniciando em loop obrigado.,Software,Médio,Software|Médio|m4
+437,O switch do andar apresenta falha de comunicação e preciso de uma solução ainda esta semana. Obrigado.,Redes,Médio,Redes|Médio|c:o switch do andar|apresenta falha de comunicação
+438,O firewall nao conecta e a operacao inteira parou. Augardo retorno. Setor comercial.,Redes,Alto,Redes|Alto|c:o firewall|não conecta
+439,O editor de plnailhas trava ao abrir e ninguém consegue trabalhar.,Software,Alto,Software|Alto|c:o editor de planilhas|trava ao abrir
+440,Preciso de ajuda: pergunta sobre o horário da manutenção programada da rede. Setor comercial.,Redes,Baixo,Redes|Baixo|m4
+441,o servidor de autenticação caiu e todo o call center está sem conseguir logar. Sala 204.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|m9
+442,Preciso de ajuda: preciso de acesso à patsa do projeto novo para continuar o meu trabalho. Aguardo retorno. Setor comercial.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m3
+443,"Oi, o aplicativo autenticador foi apagado do meu celular e não consigo entrar no e-mail. Estou no 2º andar.",Acessos/Senhas,Médio,Acessos/Senhas|Médio|m8
+444,"Ola, o editor de planilhas nao abre mas tenho outra opcao funcionando bem. Obrigado.",Software,Baixo,Software|Baixo|c:o editor de planilhas|não abre
+445,"Oi, o nome do wi-fi dos visitantes está com erro de digitação. Sala 204.",Redes,Baixo,Redes|Baixo|m5
+446,"Boa tarde, o Windows apresenta erro ao iniciar e pode ser resolvido na próxima semana.",Software,Baixo,Software|Baixo|c:o Windows|apresenta erro ao iniciar
+447,Preciso de ajuda: perdi o acesso ao sistema de compras depois da troca de cargo. Pdoem verificar? Setor comercial.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m5
+448,"Oi, a webcam do meu computador não é reconhecida e preciso dela para as reuniões da semana. Qualquer novidade me avisem. Setor administrativo.",Hardware,Médio,Hardware|Médio|m9
+449,o site da intranet demora muito para carregar. sala 204.,Redes,Médio,Redes|Médio|m7
+450,"oi, o ponto de rede da minha mesa apresenta falha de comunicação e não está atrapalhando meu trabalho. aguardo retorno.",Redes,Baixo,Redes|Baixo|c:o ponto de rede da minha mesa|apresenta falha de comunicação
+451,"boa tarde, existe alguma licença disponível do editor de imagens para testar aguardo retorno. sala 204.",Software,Baixo,Software|Baixo|m8
+452,Bom dia. o projetor da sala de reunião falhou de repente e dá para ver quando houver uma oportunidade Podem verificar?,Hardware,Baixo,Hardware|Baixo|c:o projetor da sala de reunião|falhou de repente
+453,"bom dia. a conta do administrador apresenta erro ao entrar e os clientes estao sendo afetados, e urgente. qualquer novidade me avisem.",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:a conta do administrador|apresenta erro ao entrar
+454,"Boa tarde, o headset nao funciona nas reunioes e uso o celular como alternativa. Podem verificar? Estou no 2o andar.",Hardware,Médio,Hardware|Médio|m7
+455,Gostaria de saber como organizar as pastas do meu e-mail. Setor administrativo.,Software,Baixo,Software|Baixo|m9
+456,O firewall parou de responder e as filiais perderam a conexão com a matriz. Setor comercial.,Redes,Alto,Redes|Alto|m4
+457,"Pessoal, a impressora de etiquetas da expedição quebrou e nenhum pedido sai hoje Setor comercial.",Hardware,Alto,Hardware|Alto|m4
+458,"Boa tarde, gostaria de entender a diferença entre as redes wi-fi da empresa. Qualquer novidade me avisem.",Redes,Baixo,Redes|Baixo|m6
+459,"Pessoal, o adesivo do patrimonio do meu computador descolou. Obrigado. Sala 204.",Hardware,Baixo,Hardware|Baixo|m1
+460,Bom dia. o Teams não abre a câmera nas reuniões. Sala 204.,Software,Médio,Software|Médio|m7
+461,Preciso de ajuda: o link principal está down e o sistema de vendas ficou offline em todas as lojas Podem verificar? Estou no 2º andar.,Redes,Alto,Redes|Alto|m3
+462,"Boa tarde, a rede cabeada caiu e toda a empresa está parada. Obrigado. Setor administrativo.",Redes,Alto,Redes|Alto|c:a rede cabeada|caiu
+463,"Olá, a catraca de entrada trvaou e nenhum funcionário consegue entrar no prédio. Filial centro.",Hardware,Alto,Hardware|Alto|m9
+464,O ERP não funciona e preciso de uma solução ainda esta semana. Obrigado.,Software,Médio,Software|Médio|c:o ERP|não funciona
+465,Preciso de ajuda: o projetor da sala de reunião esquenta demais e desliga e ninguém consegue trabalhar. Aguardo retorno. Setor administrativo.,Hardware,Alto,Hardware|Alto|c:o projetor da sala de reunião|esquenta demais e desliga
+466,O firweall parou de funcionar só estou avisando para constar. Setor administrativo.,Redes,Baixo,Redes|Baixo|c:o firewall|parou de funcionar
+467,Bom dia. o aplicativo autenticdaor foi apagado do meu celular e não consigo entrar no e-mail Qualquer novidade me avisem. Setor administrativo.,Acessos/Senhas,Médio,Acessos/Senhas|Médio|m8
+468,O ping para o servidor de arquivos oscila bastante no meu andar. Podem verificar? Setor comercial.,Redes,Médio,Redes|Médio|m8
+469,A rede cabeada da mniha baia perde pacotes e a transferência de arquivos falha. Aguardo retorno. Filial centro.,Redes,Médio,Redes|Médio|m9
+470,O aplicativo de contabilidade apresenta erro ao importar o arquivo do banco. Setor comercial.,Software,Médio,Software|Médio|m9
+471,"pessoal, o acesso ao sistema de compras expirou e há risco para os dados da empresa podem verificar?",Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:o acesso ao sistema de compras|expirou
+472,"Olá, o Outlook não sincroniza meus e-mails desde ontem. Setor comercial.",Software,Médio,Software|Médio|m3
+473,A permissão da pasta compartilhada expirou e estou usando um contorno provisório,Acessos/Senhas,Médio,Acessos/Senhas|Médio|c:a permissão da pasta compartilhada|expirou
+474,Preciso de ajuda: poderia incluir meu nome na lista de acesso ao evento do mes que vem. Setor administrativo.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m5
+475,a conexão com o servidor oscila bastante e pode ser resolvido na próxima semana. Podem verificar? Filial centro.,Redes,Baixo,Redes|Baixo|c:a conexão com o servidor|oscila bastante
+476,"Olá, o Excel fecha sozinho quando abro a planilha de relatórios. Sala 204.",Software,Médio,Software|Médio|m0
+477,O teclado perdeu algumas teclas e preciso de outro para trabalhar direito. Podem verificar?,Hardware,Médio,Hardware|Médio|m3
+478,A permissao da pasta compartilhada falhou na autenticacao e todas as filiais estao sem atendimento. Podem verificar? Estou no 2o andar.,Acessos/Senhas,Alto,Acessos/Senhas|Alto|c:a permissão da pasta compartilhada|falhou na autenticação
+479,o projetor da sala de reunião não liga e pode ser resolvido na próxima semana.,Hardware,Baixo,Hardware|Baixo|c:o projetor da sala de reunião|não liga
+480,Gostaria de saber qual é a polítcia de troca de senhas. Aguardo retorno.,Acessos/Senhas,Baixo,Acessos/Senhas|Baixo|m0

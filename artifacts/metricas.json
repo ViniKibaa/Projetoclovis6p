@@ -1,0 +1,123 @@
+{
+  "versao": "1.0.0",
+  "n_exemplos": 480,
+  "n_treino": 342,
+  "n_val": 68,
+  "n_teste": 70,
+  "epocas_executadas": 124,
+  "melhor_epoca": 99,
+  "acuracia_conjunta_teste": 0.7571,
+  "baseline_classe_majoritaria": {
+    "categoria": 0.2286,
+    "urgencia": 0.3286
+  },
+  "categoria": {
+    "acuracia": 0.8714,
+    "f1_macro": 0.8692,
+    "por_classe": {
+      "Hardware": {
+        "precisao": 1.0,
+        "recall": 0.7368,
+        "f1": 0.8485,
+        "suporte": 19
+      },
+      "Redes": {
+        "precisao": 0.8235,
+        "recall": 0.875,
+        "f1": 0.8485,
+        "suporte": 16
+      },
+      "Software": {
+        "precisao": 0.8261,
+        "recall": 1.0,
+        "f1": 0.9048,
+        "suporte": 19
+      },
+      "Acessos/Senhas": {
+        "precisao": 0.875,
+        "recall": 0.875,
+        "f1": 0.875,
+        "suporte": 16
+      }
+    },
+    "matriz_confusao": [
+      [
+        14,
+        1,
+        3,
+        1
+      ],
+      [
+        0,
+        14,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        19,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        14
+      ]
+    ],
+    "classes": [
+      "Hardware",
+      "Redes",
+      "Software",
+      "Acessos/Senhas"
+    ]
+  },
+  "urgencia": {
+    "acuracia": 0.8857,
+    "f1_macro": 0.8858,
+    "por_classe": {
+      "Baixo": {
+        "precisao": 0.8148,
+        "recall": 1.0,
+        "f1": 0.898,
+        "suporte": 22
+      },
+      "Médio": {
+        "precisao": 0.9048,
+        "recall": 0.76,
+        "f1": 0.8261,
+        "suporte": 25
+      },
+      "Alto": {
+        "precisao": 0.9545,
+        "recall": 0.913,
+        "f1": 0.9333,
+        "suporte": 23
+      }
+    },
+    "matriz_confusao": [
+      [
+        22,
+        0,
+        0
+      ],
+      [
+        5,
+        19,
+        1
+      ],
+      [
+        0,
+        2,
+        21
+      ]
+    ],
+    "classes": [
+      "Baixo",
+      "Médio",
+      "Alto"
+    ]
+  },
+  "tempo_treino_s": 7.25
+}
